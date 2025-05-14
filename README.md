@@ -1,10 +1,10 @@
 # Reactor 
 
 **Teste seus reflexos com um desafio visual rápido e envolvente**
+- Este repositório não possui todos arquivos do jogo, para jogo completo entrar em contato.
 
 ## ⬇️ Download APK
 https://drive.google.com/drive/u/0/folders/1WiYJPqrHhKG0Qt00vpaSkV9pGN7NBqpW
-- Este repositório não possui todos arquivos do jogo.
 
 ## 📱 Sobre o App
 **Reactor** é um aplicativo gratuito de treino de reflexos, desenvolvido com **React Native** e **Expo**, que desafia o jogador com toques rápidos e precisão visual.
