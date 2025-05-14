@@ -2,6 +2,10 @@
 
 **Teste seus reflexos com um desafio visual rápido e envolvente**
 
+## ⬇️ Download APK
+https://drive.google.com/drive/u/0/folders/1WiYJPqrHhKG0Qt00vpaSkV9pGN7NBqpW
+- Este repositório não possui todos arquivos do jogo.
+
 ## 📱 Sobre o App
 **Reactor** é um aplicativo gratuito de treino de reflexos, desenvolvido com **React Native** e **Expo**, que desafia o jogador com toques rápidos e precisão visual.
 
@@ -21,14 +25,6 @@ O jogo conta com dois modos:
 - 🌐 Suporte multilíngue (i18n)
 - 📲 Interface adaptada para Android
 
-## 📷 Imagens
-
-<div align="center">
-  <img src="assets/screenshots/screen1.png" width="200" />
-  <img src="assets/screenshots/screen2.png" width="200" />
-  <img src="assets/screenshots/screen3.png" width="200" />
-</div>
-
 ## ⚙️ Tecnologias Utilizadas
 
 - [React Native](https://reactnative.dev/)
@@ -39,18 +35,3 @@ O jogo conta com dois modos:
 - [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/)
 - [Expo SplashScreen](https://docs.expo.dev/versions/latest/sdk/splash-screen/)
 
-## 🚀 Como Executar
-
-### Pré-requisitos
-
-- Node.js
-- Expo CLI (`npm install -g expo-cli`)
-- Android Studio (emulador) ou dispositivo físico com Expo Go
-
-### Passos
-
-```bash
-git clone https://github.com/seu-usuario/reactor-app.git
-cd reactor-app
-npm install
-npx expo start
